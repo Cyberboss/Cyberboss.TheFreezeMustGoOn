@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberboss.TheFreezeMustGoOn", "Cyberboss.TheFreezeMustGoOn\Cyberboss.TheFreezeMustGoOn.csproj", "{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78031EE5-858B-4630-8D69-3C231B80FD23}
+	EndGlobalSection
+EndGlobal
