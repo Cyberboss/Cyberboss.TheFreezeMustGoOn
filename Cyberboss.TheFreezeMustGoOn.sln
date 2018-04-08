@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberboss.TheFreezeMustGoOn", "Cyberboss.TheFreezeMustGoOn\Cyberboss.TheFreezeMustGoOn.csproj", "{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{0A8F379D-7451-43A7-8108-9EE3EDA6023C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533BC6CE-FCBA-431C-8B56-6F7A3F9A1D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8F379D-7451-43A7-8108-9EE3EDA6023C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8F379D-7451-43A7-8108-9EE3EDA6023C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8F379D-7451-43A7-8108-9EE3EDA6023C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8F379D-7451-43A7-8108-9EE3EDA6023C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

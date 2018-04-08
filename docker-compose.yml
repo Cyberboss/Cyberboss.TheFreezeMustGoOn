@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  cyberboss.thefreezemustgoon:
+    image: cyberboss.thefreezemustgoon
+    build:
+      context: .
+      dockerfile: Cyberboss.TheFreezeMustGoOn/Dockerfile
