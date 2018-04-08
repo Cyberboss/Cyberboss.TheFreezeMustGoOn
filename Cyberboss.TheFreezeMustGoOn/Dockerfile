@@ -3,9 +3,10 @@ WORKDIR /app
 
 FROM microsoft/dotnet:2.1-sdk AS build
 WORKDIR /src
-COPY *.sln ./
 COPY Cyberboss.TheFreezeMustGoOn/Cyberboss.TheFreezeMustGoOn.csproj Cyberboss.TheFreezeMustGoOn/
+WORKDIR /src/Cyberboss.TheFreezeMustGoOn
 RUN dotnet restore
+WORKDIR /src
 COPY . .
 WORKDIR /src/Cyberboss.TheFreezeMustGoOn
 RUN dotnet build -c Release -o /app
